@@ -1,0 +1,16 @@
+Prompts: 10 | Tokens Generated: 10240 | Time: 88.30 seconds | GPUs: 2,3
+Prompts: 100 | Tokens Generated: 102400 | Time: 189.66 seconds | GPUs: 2,3
+Prompts: 10 | Tokens Generated: 10240 | Time: 94.42 seconds | GPUs: 2,3
+Prompts: 10 | Tokens Generated: 10350 | Time: 84.33 seconds | GPUs: 2,3
+Prompts: 10 | Tokens Generated: 10350 | Time: 75.79 seconds | GPUs: 2,3
+Prompts: 10 | Tokens Generated: 10350 | Time: 98.31 seconds | GPUs: 2,3
+Prompts: 10 | Tokens Generated: 10350 | Time: 116.91 seconds | GPUs: 2,3
+Prompts: 10 | Tokens Generated: 10350 | Time: 65.01 seconds | GPUs: 2
+Prompts: 500 | Tokens Generated: 516060 | Time: 3340.38 seconds | GPUs: 2
+Prompts: 100 | Tokens Generated: 103500 | Time: 441.86 seconds | GPUs: 2
+Prompts: 500 | Tokens Generated: 517500 | Time: 2377.55 seconds | GPUs: 2
+Prompts: 100 | Tokens Generated: 103500 | Time: 278.82 seconds | GPUs: 2
+Prompts: 500 | Tokens Generated: 517500 | Time: 1376.09 seconds | GPUs: 2
+Prompts: 10 | Tokens Generated: 10350 | Time: 47.82 seconds | GPUs: 2
+Prompts: 50 | Tokens Generated: 51750 | Time: 154.55 seconds | GPUs: 2
+Prompts: 100 | Tokens Generated: 103500 | Time: 275.25 seconds | GPUs: 2
