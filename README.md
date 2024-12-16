@@ -10,7 +10,7 @@ This repository contains scripts and outputs related to VLLM service performance
 - **vllm_test.py**: Python script for testing performance using method 2.
 - **test.sh**: Shell script to verify VLLM service availability.
 - **inference_stats.txt**: Output file containing inference performance statistics.
-- **vlm_inference_stats.txt**: Output file with additional VLLM inference statistics.
+- **vllm_inference_stats.txt**: Output file with additional VLLM inference statistics.
 
 ## Usage
 
@@ -18,8 +18,11 @@ This repository contains scripts and outputs related to VLLM service performance
    ```bash
    bash start_server.sh
    ```
-
-2. **Run Performance Tests**:
+2. **Check VLLM Usability**:
+   ```bash
+   bash test.sh
+   ---
+3. **Run Performance Tests**:
    - Method 1:
      ```bash
      python hf_test.py
@@ -29,10 +32,6 @@ This repository contains scripts and outputs related to VLLM service performance
      python vllm_test.py
      ```
 
-3. **Check VLLM Usability**:
-   ```bash
-   bash test.sh
-   ```
 
 4. **Outputs**:
    - `inference_stats.txt` and `vlm_inference_stats.txt` contain performance results.
